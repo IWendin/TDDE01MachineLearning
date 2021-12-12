@@ -1,0 +1,1 @@
+This folder contains the data files of the lab, the solutions in R, and a lab PM with the answers to the questions
